@@ -11,6 +11,8 @@
     "@vuepic/vue-datepicker": "^5.1.1",
     "core-js": "^3.8.3",
     "dayjs": "^1.11.7",
+    "element-plus": "^2.3.5",
+    "element-ui": "^2.15.13",
     "jquery": "^3.6.4",
     "vue": "^3.2.13",
     "vue-router": "^4.1.6"
